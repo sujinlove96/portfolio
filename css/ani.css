@@ -1,0 +1,154 @@
+@charset 'urf-8';
+
+@keyframes html {
+    0%{
+      width: 0;
+    }
+  
+    100%{
+      width: 85%;
+    }
+  }
+
+  @keyframes java {
+    0%{
+      width: 0;
+    }
+  
+    100%{
+      width: 70%;
+    }
+  }
+
+  @keyframes jq {
+    0%{
+      width: 0;
+    }
+  
+    100%{
+      width: 65%;
+    }
+  }
+
+  @keyframes top {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+  }
+  @keyframes end {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }            
+}
+
+@keyframes back {
+  0%{
+  opacity: 0;
+  }
+  100%{
+  opacity: 0.3;
+  }
+  }
+
+  
+
+  @keyframes nana {
+  0%{
+  top: 50%;
+  }
+  30%{
+  top: 55%;
+  }
+  50%{
+  top: 53%;
+  }
+  62%{
+  top: 55%;
+  }
+  68%{
+  top: 54%;
+  }
+  72%{
+  top: 55%; opacity: 1;
+  }
+  100%{
+  top: 55%; opacity: 0;
+  }
+
+  }
+
+  
+
+  /* 사라지는 글자 */
+
+  
+
+  @keyframes remove-txt {
+
+  0%{
+
+  height: 20px;
+
+  }
+
+  100%{
+
+  height: 0;
+
+  }
+
+  }
+
+  
+
+  /* 나타나는 글자 */
+
+  
+
+  @keyframes move-txt {
+
+  0%{
+
+  height: 0;
+
+  }
+
+  10%{
+
+  height: 20px;
+
+  }
+
+  100%{
+
+  height: 20px;
+
+  }
+
+  }
+
+  
+
+  @keyframes tmp {
+
+  0%{
+
+  height: 0;
+
+  }
+
+  100%{
+
+  height: 100px;
+
+  }
+
+  }
+
+ 
